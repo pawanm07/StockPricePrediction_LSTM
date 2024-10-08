@@ -71,3 +71,6 @@ After training the model and converting the data to INR, the interactive graph s
 - Real stock prices (Train) in INR.
 - Validation stock prices in INR.
 - Model's predictions in INR.
+
+## PowerBI Dashboard
+![PowerBI Dashboard Screenshot](https://github.com/pawanm07/HealthcareCustomerChurnAnalysis/blob/main/Dashboard%20img1.png)
