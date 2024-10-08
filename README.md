@@ -73,4 +73,4 @@ After training the model and converting the data to INR, the interactive graph s
 - Model's predictions in INR.
 
 ## PowerBI Dashboard
-![PowerBI Dashboard Screenshot](https://github.com/pawanm07/HealthcareCustomerChurnAnalysis/blob/main/Dashboard%20img1.png)
+![PowerBI Dashboard Screenshot](https://github.com/pawanm07/CodeAlphaProject1/blob/main/OUTPUT.png)
