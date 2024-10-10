@@ -29,7 +29,7 @@ This project demonstrates the use of an LSTM model to predict stock prices and c
   - `tensorflow`
 
 ## Installation
-1. Clone the repository:
+- Clone the repository:
    ```bash
    git clone https://github.com/yourusername/stock-price-prediction-inr.git
    ```
