@@ -1,6 +1,6 @@
 # Stock Price Prediction using LSTM
 
-This project focuses on predicting stock prices and converting the predictions into Indian Rupees (INR) using a predefined conversion rate. The model utilizes Long Short-Term Memory (LSTM) neural networks to predict future stock prices based on historical data. Additionally, interactive visualizations are created using Plotly to help visualize the predictions.
+This project focuses on predicting stock prices and converting the predictions into Indian Rupees (INR) using a predefined conversion rate. The model utilizes Long Short-Term Memory  neural networks to predict future stock prices based on historical data. Additionally, interactive visualizations are created using Plotly to help visualize the predictions.
 
 ## Table of Contents
 - Overview
